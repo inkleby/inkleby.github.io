@@ -10,16 +10,18 @@ html {
     height: 100%;
 }
 
-body,
+body {
+
+		font-family: 'Open Sans', sans-serif;
+		font-size: 13pt;
+}
+
 h1,
 h2,
-h3,
-h4,
-h5,
-h6 {
-    font-family: "Lato","Helvetica Neue",Helvetica,Arial,sans-serif;
-    font-weight: 700;
+h3 {
+    font-family: 'Raleway', sans-serif;
 }
+
 
 .topnav {
     font-size: 14px; 
